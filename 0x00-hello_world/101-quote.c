@@ -2,11 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - prints a string out
+ * main - print a string using only write functio
+ * n
  *
- * Description: Print a string out without using printf or put
- *
- * Return 1
+ * Return: 1
  */
 
 
