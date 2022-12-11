@@ -11,9 +11,9 @@ int main(void)
 {
 	char string;
 
-	for (string = 'a'; string != 'z'; string++)
+	for (string = 'a'; string <= 'z'; string++)
 		putchar(string);
-	for (string = 'A'; string != 'Z'; string++)
+	for (string = 'A'; string <= 'Z'; string++)
 		putchar(string);
 	putchar('\n');
 
