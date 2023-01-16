@@ -1,4 +1,5 @@
-
+#ifndef _DOG_H_
+#define _DOG_H_
 
 /**
  * struct dog - creates a struct "dog"
@@ -15,5 +16,3 @@ struct dog
 	char *owner;
 
 };
-
-
