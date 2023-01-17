@@ -6,7 +6,7 @@
 /**
  * init_dog - initializes a struct type dog
  * @d: pointerto initialize struct dog to
- * @owner: name of owner
+ * @name: name of dog
  * @age: age of dog
  * @owner: name of owner
  */
