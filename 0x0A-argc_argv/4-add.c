@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 	{
 		for (i = 1; i < argc; i++)
 		{
-			if (atoi(argv[i])!= 0)
+			if (atoi(argv[i]) != 0)
 			{
 				sum += atoi(argv[i]);
 			}
@@ -29,14 +29,13 @@ int main(int argc, char *argv[])
 				return (1);
 			}
 		}
-
 		printf("%d\n", sum);
 	}
-
-	else 
+	else
 	{
 		printf("%d\n", 0);
 	}
 
 	return (0);
 }
+
