@@ -1,6 +1,12 @@
 #ifndef _DOG_H_
 #define _DOG_H_
 
+/**
+  * struct dog - initialize a dog struct.
+  * @name: name of dog
+  * @age: age of dog
+  * @owner: owner's name
+  */
 
 struct dog
 {
