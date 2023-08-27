@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
- * is_divisible - Check if an integer is divisible by any integer from a range
- * between divisor and itself
+ * is_divisible - Check if an integer is divisible by any integer
+ * from a given divisor up to the integer itself
  * @n: The integer to be checked for divisibility.
  * @divisor: The divisor to start checking from.
- * Return 1 if the integer is divisible by any integer from
+ * Return: 1 if the integer is divisible by any integer from
  * 'divisor' to itself, 0 otherwise.
  */
 
